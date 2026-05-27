@@ -1,4 +1,4 @@
-﻿# https://github.com/Harsh77480/AsyncRAG-Backend-API
+﻿# AsyncRAG-Backend-API
 
 ## Overview
 This project integrates Langchain with FastAPI, providing a framework for document indexing and retrieval, as well as chat functionality, using PostgreSQL and pgvector. It is designed to support both synchronous and asynchronous operations.
